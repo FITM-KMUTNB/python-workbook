@@ -32,7 +32,7 @@
 2.3 Expression
 2.4 Summary
 
-## LAB - Programming Environment
+## LAB - Data Type, Variable and Expression
 2.1 Data Type Variable 01
      - Brief Lab 01
      - Program  Spec

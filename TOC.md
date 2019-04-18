@@ -28,6 +28,9 @@
 # Chapter 2  Data Type, Variable and Expression
 ## Theory - Data Type, Variable and Expression
 2.1 Data Type
+    1. int
+    2. float 
+    3. string
 2.2 Variable
 2.3 Expression
 2.4 Summary

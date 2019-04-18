@@ -14,12 +14,47 @@
 7. Chapter Summary
 
 ## LAB - Programming Environment
-1. SetUp
+1.1. SetUp
     1. Coding Environment
     2. Python
     3. Hello World
     4. GitHub
-2. FlowChart
-3. Pseudocode
-4. UnitTest
-5. LAB Discussion
+1.2. FlowChart
+1.3. Pseudocode
+1.4. UnitTest
+1.5. LAB Discussion
+
+
+# Chapter 2  Data Type, Variable and Expression
+## Theory - Data Type, Variable and Expression
+2.1 Data Type
+2.2 Variable
+2.3 Expression
+2.4 Summary
+
+## LAB - Programming Environment
+2.1 Data Type Variable 01
+     - Brief Lab 01
+     - Program  Spec
+     - IPO
+     - Flowchart / Pseudocode
+     - Test
+     - Coding
+     - Discussion
+2.2 Data Type Variable 02
+     - Brief Lab 
+     - Program  Spec
+     - IPO
+     - Flowchart / Pseudocode
+     - Test
+     - Coding
+     - Discussion
+2.3 Data Type Variable 03
+     - Brief Lab 
+     - Program  Spec
+     - IPO
+     - Flowchart / Pseudocode
+     - Test
+     - Coding
+     - Discussion
+2.4 LAB Discussion

@@ -9,8 +9,9 @@
     2. GitHub
     3. Hello World
 4. FlowChart
-5. UnitTest
-6. Chapter Summary
+5. Pseudocode
+6. UnitTest
+7. Chapter Summary
 
 ## LAB - Programming Environment
 1. SetUp
@@ -19,5 +20,6 @@
     3. Hello World
     4. GitHub
 2. FlowChart
-3. UnitTest
-4. LAB Discussion
+3. Pseudocode
+4. UnitTest
+5. LAB Discussion

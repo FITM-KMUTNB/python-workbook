@@ -61,3 +61,42 @@
      - Coding
      - Discussion
 2.4 LAB Discussion
+#Chapter 3 Condition, Selection, and Repetition
+##Theory - Condition, Selection, and Repetition
+3.1 Condition
+  - Boolean
+  - > , < , <=, >=, ==, ! , not 
+3.2 Selection
+  - if
+  - if-else
+   -If-elif-else
+3.3  Repetition
+   - while
+   - for
+3.4 Summary
+##LAB - Condition, Selection, and Repetition
+L 3.1 If-elif-else
+- Brief Lab
+- Program Spec
+- IPO
+- Flowchart / Pseudocode
+- Test
+- Coding
+- Discussion
+L 3.2 While-for
+- Brief Lab
+- Program Spec
+- IPO
+- Flowchart / Pseudocode
+- Test
+- Coding
+- Discussion
+L 3.3 Condition, Selection, and Repetition (mix)
+- Brief Lab
+- Program Spec
+- IPO
+- Flowchart / Pseudocode
+- Test
+- Coding
+- Discussion
+L 3.4 LAB Discussion

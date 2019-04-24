@@ -36,6 +36,7 @@
 
 ## LAB - Data Type, Variable and Expression
 L 2.1 Data Type Variable 01
+
      - Brief Lab 01
      - Program  Spec
      - IPO
@@ -43,7 +44,9 @@ L 2.1 Data Type Variable 01
      - Test
      - Coding
      - Discussion
+     
 L  2.2 Data Type Variable 02
+
      - Brief Lab 
      - Program  Spec
      - IPO
@@ -51,7 +54,9 @@ L  2.2 Data Type Variable 02
      - Test
      - Coding
      - Discussion
+     
 L 2.3 Data Type Variable 03
+
      - Brief Lab 
      - Program  Spec
      - IPO
@@ -59,6 +64,7 @@ L 2.3 Data Type Variable 03
      - Test
      - Coding
      - Discussion
+     
 L 2.4 LAB Discussion
 
 #Chapter 3 Condition, Selection, and Repetition
